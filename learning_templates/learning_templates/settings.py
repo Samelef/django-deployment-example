@@ -26,7 +26,7 @@ SECRET_KEY = 'blmkg4_4^t_t_1i%5x_6ad*u&+oui%01b&n7t3la3f-dfr+eb^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['samelef.pythonanywhere.com']
 
 
 # Application definition
